@@ -1,5 +1,7 @@
 # Bruce Donaven
 [Download Foundational AI Principles PDF](Bruce_Donaven/FoundationalAI.pdf)
+
+#Video
 [Watch the video on YouTube](https://youtu.be/z5M1g42qUEI)
 
 ## Overview
