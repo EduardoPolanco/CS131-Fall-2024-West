@@ -1,5 +1,5 @@
 # Bruce Donaven
-[Watch the video on YouTube](https://youtu.be/z5M1g42qUEI)
+[Download Foundational AI Principles PDF](Bruce_Donaven/FoundationalAI.pdf)
 
 ## Overview
 This folder contains the work for the CS131 Fall 2024 semester, focusing on my CS131, Discrete Structures, and AI/ML project.
